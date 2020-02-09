@@ -1,0 +1,48 @@
+ông	grandfather
+bà	grandmother
+ông bà	grandparent
+cháu trai	grandson
+cho, ban, cấp; sự cho, sự ban, sự cấp	grant
+cỏ; bãi cỏ, đồng cỏ	grass
+biết ơn, dễ chịu, khoan khoái	grateful
+mộ, dấu huyền; trang nghiêm, nghiêm trọng	grave
+xám, hoa râm (tóc)	gray(NAmE)
+xám, hoa râm (tóc)	grey
+to, lớn, vĩ đại	great
+rất, lắm; cao thượng, cao cả	greatly
+xanh lá cây	green
+cửa hàng tạp phẩm	grocery
+hàng tạp hóa	groceries
+mặt đất, đất, bãi đất	ground
+nhóm	group
+mọc, mọc lên	grow
+sự lớn lên, sự phát triển	growth
+sự bảo hành, bảo lãnh, người bảo lãnh; cam đoan, bảo đảm	guarantee
+cái chắn, người bảo vệ; bảo vệ, gác, canh giữ	guard
+đoán, phỏng đoán; sự đoán, sự ước chừng	guess
+khách, khách mời	guest
+điều chỉ dẫn, người hướng dẫn; dẫn đường, chỉ đường	guide
+có tội, phạm tội, tội lỗi	guilty
+súng	gun
+bù nhìn, anh chàng, gã	guy
+thói quen, tập quán	habit
+tóc	hair
+thợ làm tóc	hairdresser
+một nửa, phần chia đôi, nửa giờ; nửa	half
+đại sảnh, tòa (thị chính), hội trường	hall
+búa	hammer
+tay, bàn tay; trao tay, truyền cho	hand
+cầm, sờ mó; tay cầm, móc quai	handle
+treo, mắc	hang
+xảy ra, xảy đến	happen
+sự sung sướng, hạnh phúc	happiness
+nỗi buồn, sự bất hạnh	unhappiness
+vui sướng, hạnh phúc	happy
+sung sướng, hạnh phúc	happily
+buồn rầu, khốn khổ	unhappy
+cứng, rắn, hà khắc; hết sức cố gắng, tích cực	hard
+khắc nghiệt, nghiêm khắc, tàn tệ, khó khăn	hardly
+thiệt hại, tổn hao; làm hại, gây thiệt hại	harm
+gây tai hại, có hại	harmful
+không có hại	harmless
+cái mũ	hat

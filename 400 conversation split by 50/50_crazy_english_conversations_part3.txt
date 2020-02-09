@@ -1,0 +1,50 @@
+Hiện giờ mình đang tham gia 1 khóa học	 I’m on a course at the moment
+Tôi đang đi thực tập	 I’m on work experience
+Bạn có phải là sinh viên không?	 Are you a student?
+Bạn học ngành gì?	 what do you study?
+Tôi học kinh tế	 I’m studying economics
+Bạn học ở đâu?	 Where do you study?
+Bạn học trường đại học nào?	 Which university are you at?
+Tôi học đại học liverpool	 I’m at liverpool university
+Bạn học năm thứ mấy?	 Which year are you in?
+Tôi học năm cuối	 I’m in my final year
+Bạn có kì thi nào sắp tới không?	 Do you have any exams coming up?
+Tôi vừa tốt nghiệp	 I’ve just graduated
+Bạn có học đại học không?	 Did you go to university?
+Trước kia bạn học đại học nào?	 Where did you go to university?
+Tôi học cb	 I went to cambridge
+Trước kia bạn học ngành gì?	 What did you study?
+Bạn còn phải học bao nhiêu năm nữa?	 How many more years do you have to go?
+Sau khi học xong ban muốn làm gì?	 What do you want to do when you’ve finished?
+Đi làm	 Get a job
+Minh chưa biết làm gì khi học xong đại học	 I don’t know what in want to do after university
+Bạn theo tôn giáo nào?	 What religion are you?
+Tôi theo đạo thiên chúa	 I’m a Christian
+Bạn có tin vào chúa không?	 Do you believe in God?
+Mình tin vào chúa	 I believe in God
+Gần đây có nhà thờ nào không?	 Is there a church near hear?
+Anh mua cho em đồ uống gì đó nhé?	 Can I buy you a drink?
+Bạn đi 1 mình à?	 Are you on your own?
+Bạn có muốn tham gia cùng chúng tôi không?	 Would you like to join us?
+Bạn có thường xuyên đến đây không?	 Do you come here often?
+Đây có phải lần đầu tiên bạn đến đây không?	 Is this your first time here?
+Bạn đến đây bao giờ chưa?	 Have you been here before?
+Bạn có muốn nhảy không?	 Would you like to dance?
+Bạn có muốn khi nào đó mình đi uống nước k?	 Do you want to go for a drink sometime?
+Nếu khi nào bạn muốn gặp tôi thì báo tôi biết nhé !	 If you'd like to meet up sometime, let me know!
+Bạn có muốn đi uống cafe với tôi không?	 Would you like to join me for a coffee?
+Em có muốn khi nào đó mình đi xem phim k?	 Do you fancy going to see a film sometime?
+Nghe hấp dẫn đấy	 That sounds good
+Rất tiếc, bạn không phải là mẫu người của tôi !	 Sorry, you're not my type!
+Đây là số điện thoại của tôi	 Here's my number
+Trông bạn tuyệt lắm	 You look great
+Tối nay trông bạn rất tuyệt	 You look very nice tonight
+Tôi thích bộ đồ của bạn	 I like your outfit
+Trông bạn rất ưa nhìn	 You're really good-looking
+Bạn có đôi mắt rất đẹp	 You've got beautiful eyes
+Bạn có nụ cười rất đẹp	 You've got a great smile
+Cảm ơn vì lời khen	 Thanks for the compliment!
+Bạn thấy chỗ này thế nào?	 What do you think of this place?
+Chúng ta đi chỗ khác nhé	 Shall we go somewhere else?
+Tôi biết một chỗ rất hay	 I know a good place
+Tôi có thể hôn bạn được không?	 Can I kiss you?

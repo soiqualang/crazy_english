@@ -1,5 +1,16 @@
-# 400_crazy_english
-400_crazy_english
+# Crazy_English
+Crazy English
+
+Make English learning be fun!
+
+## Split up even further
+
+After a period of time, I felt that a set of vocabulary was too ineffective so I decided to break up the vocabulary further =))
+
+### 400 conversation split by 50
+
+### 4000 Core English Vocabulary Words split by 50
+
 
 ## 400 crazy Vietnamese - English
 
@@ -7,6 +18,8 @@
 
 > 400_crazy_english_trans.xlsx
 `=RIGHT(A1,LEN(A1)-SEARCH(".",A1))`
+
+https://quizlet.com/474345902/400-crazy-vietnamese-english-flash-cards/
 
 ## 4000 Core English Vocabulary Words
 

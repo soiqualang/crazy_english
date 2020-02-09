@@ -1,0 +1,50 @@
+Không, tôi là con một	 No, I’m an only child
+Bạn có con không?	 Do you have any children?
+Tôi không có con	 I don’t have any children
+Ông/Bà có cháu không	 Do you have any grandchildren?
+Bố mẹ bạn còn sống chứ?	 Are your parents still alive?
+Bố mẹ bạn sông ở đâu?	 Where do your parents alive?
+Bố bạn làm nghề gì?	 What does your father do?
+Bạn có bạn trai chưa?	 Do you have a boyfriend?
+Bạn có đang hẹn hò với ai không?	 Are you seeing anyone?
+Tôi đang hẹn hò.	 I’m seeing someone.
+Họ tên gì?	 What are their names?
+Họ tên là Neil và Anna	 They’re called Neil and Anna
+Anh ấy tên gì?	 What’s his name?
+Bạn thích làm gì khi có thời gian rãnh rỗi?	 What do you like doing in your spare time?
+Tôi thích nghe nhạc	 I like listening to music
+Tôi thích đi chơi	 I love going out
+Tôi thích đi du lịch	 I enjoy travelling
+Tôi không thích các câu lạc bộ đêm	 I don’t like nightclubs
+Tôi quan tâm đến ngôn ngữ	 I’m interested in languages
+Gần đây bạn có xem bộ phim nào hay k?	 Have you seen any good films recently
+Bạn có chơi môn thể thao nào không	 Do you play any sports?
+Có, tôi chơi đá bóng	 Yes, i play football
+Bạn cổ vũ đội nào	 Which team do you support?
+Tôi cổ vũ MU	 I support Machester United
+Bạn có chơi nhạc cụ nào không?	 Do you play any instruments?
+Tôi chơi trong ban nhạc	 I’m in a band
+Tôi hát trong đội hợp xướng	 I sing in a choir
+Bạn thích loại nhạc nào?	 What sort of music do you like?
+Nhiều thể loại khác nhau	 Lost of different stuff
+Bạn có yêu thích ban nhạc nào không?	 Have you got any favourite bands?
+Bạn làm loại công việc gì?	 What sort of work do you do?
+Tôi làm nghề lập trình máy tính	 I work as a programer
+Bạn làm trong ngành gì	 What line of work are you in?
+Tôi làm trong kinh doanh	 I work in sales
+Tôi ở nhà trông con	 I stay at home and look after the children
+Tôi là nội trợ	 I’m a housewife
+Tôi làm việc bán thời gian	 I’ve got a part – time job
+Tôi đang thất nghiệp	 I’m unemployed
+Tôi đang tìm việc	 I’m looking for work
+Tôi vừa bị sa thải	 I’ve been made redundant
+Tôi đã nghỉ hưu	 I’m retired
+Bạn làm việc cho công ty nào?	 Who do you work for?
+Tôi làm việc cho 1 ngân hàng đầu tư	 I work for an investment bank
+Tôi tự làm chủ	 I work for myself
+Tôi có công ty riêng	 I have my own business
+Tôi mới về làm cho công ty IBM	 I’ve just started at IBM
+Bạn làm việc ở đâu?	 Where do you work?
+Tôi làm việc ở ngân hàng	 I work in a bank
+Tôi được đào tạo để trở thành kĩ sư	 I’m training to be an engineer
+Tôi là tập sự kế toán	 I’m a trainee accountant
