@@ -1,0 +1,401 @@
+vi	en
+Tình hình thế nào?	 How’s it going?
+Tình hình thế nào?	 How are you doing?
+Tình hình thế nào?	 How’s life?
+Tình hình thế nào?	 How are things?
+Bạn đang làm gì đấy?	 What are you up to?
+Dạo này bạn làm gì	 What have you been up to?
+Làm việc nhiều	 Working a lot
+Học nhiều	 Studying a lot
+Dạo này tôi rất bận	 I’ve been very busy
+Vẫn như mọi khi	 Same as usual
+Bạn có kế hoạch gì cho hè này không?	Do you have any plans for the summer?
+Bạn có hút thuốc không?	 Do you smoke?
+Xin lỗi, tôi không nghe rõ tên bạn	 I’m sorry, I didn’t catch your name
+Các bạn có biết nhau trước không?	 Do you know each other?
+Các bạn biết nhau trong trường hợp nào?	 How do you know each other?
+Chúng tôi làm cùng nhau	 We work together
+Chúng tôi đã từng làm cùng nhau	 We used to work together
+Chúng tôi đã từng học đại học cùng nhau	 We went to university together
+Qua bạn bè	 Through friends
+Tôi sinh ra ở Úc nhưng lớn lên ở Anh	 I was born in Australia but grew up in England
+Điều gì đã đem bạn đến với nước Anh?	 What brings you to England?
+Tôi đi nghỉ	 I’m on holiday
+Tôi đi công tác	 I’m on business
+Tại sao bạn lại đến nước Anh?	 Why did you come to the UK?
+Tôi đến đây làm việc	 I came here to work
+Tôi đến đây học	 I came here to study
+Tôi muốn sống ở nước ngoài	 I wanted to live abroad
+Bạn đã sống ở đây bao lâu rồi?	 How long have you lived here?
+Tôi vừa mới đến	 I’ve only just arrived
+Vài tháng	 A few months
+Khoảng hơn 2 năm	 Just over two years
+Bạn định sống ở đây bao lâu?	 How long are you planning to stay here
+1 năm nữa	 Another year
+Bạn có thích ở đây không?	 Do you like it here?
+Mình rất thích	 I like it a lot
+Bạn thích ở đây ở điểm nào?	 What do you like about it?
+Tôi thích đồ ăn	 I like the food
+Tôi thích thời tiết	 I like the weather
+Tôi thích con người	 I like the people
+Sinh nhật bạn ngày nào	When’s your birthday?
+Bạn ở với ai?	 Who do you live with?
+Bạn có ở với ai không?	 Do you live with anybody?
+Tôi ở với 1 ngừơi bạn	 I live with a friend
+Bạn ở 1 mình à	 Do you live on your own?
+Mình ở với 1 người nữa	 I share with one other person
+Địa chỉ email của bạn là gì?	 What’s your email address?
+Cho mình số đt của bạn được không?	 Could i take your phone number?
+Bạn có dùng facebook không?	 Are you on Facebook?
+Bạn có anh chị em không?	 Do you have any brothers or sisters?
+Tôi có một em trai	 Yes, I’ve got a brother.
+Không, tôi là con một	 No, I’m an only child
+Bạn có con không?	 Do you have any children?
+Tôi không có con	 I don’t have any children
+Ông/Bà có cháu không	 Do you have any grandchildren?
+Bố mẹ bạn còn sống chứ?	 Are your parents still alive?
+Bố mẹ bạn sông ở đâu?	 Where do your parents alive?
+Bố bạn làm nghề gì?	 What does your father do?
+Bạn có bạn trai chưa?	 Do you have a boyfriend?
+Bạn có đang hẹn hò với ai không?	 Are you seeing anyone?
+Tôi đang hẹn hò.	 I’m seeing someone.
+Họ tên gì?	 What are their names?
+Họ tên là Neil và Anna	 They’re called Neil and Anna
+Anh ấy tên gì?	 What’s his name?
+Bạn thích làm gì khi có thời gian rãnh rỗi?	 What do you like doing in your spare time?
+Tôi thích nghe nhạc	 I like listening to music
+Tôi thích đi chơi	 I love going out
+Tôi thích đi du lịch	 I enjoy travelling
+Tôi không thích các câu lạc bộ đêm	 I don’t like nightclubs
+Tôi quan tâm đến ngôn ngữ	 I’m interested in languages
+Gần đây bạn có xem bộ phim nào hay k?	 Have you seen any good films recently
+Bạn có chơi môn thể thao nào không	 Do you play any sports?
+Có, tôi chơi đá bóng	 Yes, i play football
+Bạn cổ vũ đội nào	 Which team do you support?
+Tôi cổ vũ MU	 I support Machester United
+Bạn có chơi nhạc cụ nào không?	 Do you play any instruments?
+Tôi chơi trong ban nhạc	 I’m in a band
+Tôi hát trong đội hợp xướng	 I sing in a choir
+Bạn thích loại nhạc nào?	 What sort of music do you like?
+Nhiều thể loại khác nhau	 Lost of different stuff
+Bạn có yêu thích ban nhạc nào không?	 Have you got any favourite bands?
+Bạn làm loại công việc gì?	 What sort of work do you do?
+Tôi làm nghề lập trình máy tính	 I work as a programer
+Bạn làm trong ngành gì	 What line of work are you in?
+Tôi làm trong kinh doanh	 I work in sales
+Tôi ở nhà trông con	 I stay at home and look after the children
+Tôi là nội trợ	 I’m a housewife
+Tôi làm việc bán thời gian	 I’ve got a part – time job
+Tôi đang thất nghiệp	 I’m unemployed
+Tôi đang tìm việc	 I’m looking for work
+Tôi vừa bị sa thải	 I’ve been made redundant
+Tôi đã nghỉ hưu	 I’m retired
+Bạn làm việc cho công ty nào?	 Who do you work for?
+Tôi làm việc cho 1 ngân hàng đầu tư	 I work for an investment bank
+Tôi tự làm chủ	 I work for myself
+Tôi có công ty riêng	 I have my own business
+Tôi mới về làm cho công ty IBM	 I’ve just started at IBM
+Bạn làm việc ở đâu?	 Where do you work?
+Tôi làm việc ở ngân hàng	 I work in a bank
+Tôi được đào tạo để trở thành kĩ sư	 I’m training to be an engineer
+Tôi là tập sự kế toán	 I’m a trainee accountant
+Hiện giờ mình đang tham gia 1 khóa học	 I’m on a course at the moment
+Tôi đang đi thực tập	 I’m on work experience
+Bạn có phải là sinh viên không?	 Are you a student?
+Bạn học ngành gì?	 what do you study?
+Tôi học kinh tế	 I’m studying economics
+Bạn học ở đâu?	 Where do you study?
+Bạn học trường đại học nào?	 Which university are you at?
+Tôi học đại học liverpool	 I’m at liverpool university
+Bạn học năm thứ mấy?	 Which year are you in?
+Tôi học năm cuối	 I’m in my final year
+Bạn có kì thi nào sắp tới không?	 Do you have any exams coming up?
+Tôi vừa tốt nghiệp	 I’ve just graduated
+Bạn có học đại học không?	 Did you go to university?
+Trước kia bạn học đại học nào?	 Where did you go to university?
+Tôi học cb	 I went to cambridge
+Trước kia bạn học ngành gì?	 What did you study?
+Bạn còn phải học bao nhiêu năm nữa?	 How many more years do you have to go?
+Sau khi học xong ban muốn làm gì?	 What do you want to do when you’ve finished?
+Đi làm	 Get a job
+Minh chưa biết làm gì khi học xong đại học	 I don’t know what in want to do after university
+Bạn theo tôn giáo nào?	 What religion are you?
+Tôi theo đạo thiên chúa	 I’m a Christian
+Bạn có tin vào chúa không?	 Do you believe in God?
+Mình tin vào chúa	 I believe in God
+Gần đây có nhà thờ nào không?	 Is there a church near hear?
+Anh mua cho em đồ uống gì đó nhé?	 Can I buy you a drink?
+Bạn đi 1 mình à?	 Are you on your own?
+Bạn có muốn tham gia cùng chúng tôi không?	 Would you like to join us?
+Bạn có thường xuyên đến đây không?	 Do you come here often?
+Đây có phải lần đầu tiên bạn đến đây không?	 Is this your first time here?
+Bạn đến đây bao giờ chưa?	 Have you been here before?
+Bạn có muốn nhảy không?	 Would you like to dance?
+Bạn có muốn khi nào đó mình đi uống nước k?	 Do you want to go for a drink sometime?
+Nếu khi nào bạn muốn gặp tôi thì báo tôi biết nhé !	 If you'd like to meet up sometime, let me know!
+Bạn có muốn đi uống cafe với tôi không?	 Would you like to join me for a coffee?
+Em có muốn khi nào đó mình đi xem phim k?	 Do you fancy going to see a film sometime?
+Nghe hấp dẫn đấy	 That sounds good
+Rất tiếc, bạn không phải là mẫu người của tôi !	 Sorry, you're not my type!
+Đây là số điện thoại của tôi	 Here's my number
+Trông bạn tuyệt lắm	 You look great
+Tối nay trông bạn rất tuyệt	 You look very nice tonight
+Tôi thích bộ đồ của bạn	 I like your outfit
+Trông bạn rất ưa nhìn	 You're really good-looking
+Bạn có đôi mắt rất đẹp	 You've got beautiful eyes
+Bạn có nụ cười rất đẹp	 You've got a great smile
+Cảm ơn vì lời khen	 Thanks for the compliment!
+Bạn thấy chỗ này thế nào?	 What do you think of this place?
+Chúng ta đi chỗ khác nhé	 Shall we go somewhere else?
+Tôi biết một chỗ rất hay	 I know a good place
+Tôi có thể hôn bạn được không?	 Can I kiss you?
+Tôi đi bộ cùng bạn về nhà được không?	 Can I walk you home?
+Tôi có thể lái xe đưa bạn về nhà không?	 Can I drive you home?
+Bạn có muốn vào nhà uống tách cafe k?	 Would you like to come in for a coffee?
+Cảm ơn, tôi đã có 1 buổi tối rấ tuyệt	 Thanks, I had a great evening
+Khi nào tôi có thể gặp lại bạn?	 When can I see you again?
+Tôi sẽ gọi cho bạn	 I'll call you
+Tôi rất muốn dành thơi gian bên bạn	 I enjoy spending time with you
+Tôi thấy bạn rất hấp dẫn	 I find you very attractive
+Đồng ý cưới tôi nhé	 Will you marry me?
+Tối nay bạn có bận gì không?	 Are you up to anything this evening?
+Bạn có kế hoạch gì cho tối nay chưa?	 Have you got any plans for this evening
+Tối nay bạn muốn làm gì?	 What would you like to do this evening?
+Bạn muốn đi đâu vào cuối tuần này không?	 Do you want to go somewhere at the weekend?
+Bạn có muốn đi ăn gì đó với tơi không?	 Would you like to join me for something to eat?
+Mấy giờ chúng ta gặp nhau?	 What time shall we meet?
+Chúng ta gặp nhau lúc 8 giờ nhé	 Let's meet at 8 o’clock
+Bạn muốn gặp nhau ở đâu?	 Where would you like to meet?
+Tôi sẽ gặp bạn ở rạp chiếu fim lúc 10 giờ	 I'll see you at the cinema at 10 o'clock
+Hẹn gặp bạn ở đó nhé !	 See you there!
+Nói cho tôi biết nếu bạn đi được nhé	 Let me know if you can make it
+Tôi sẽ đén trong vòng 10 phút nữa	 I'll be there in 10 minutes
+Bạn đến lâu chưa?	 Have you been here long?
+Bạn đợi lâu chưa?	 Have you been waiting long?
+Hôm kia	 The day before yesterday
+Ngày kia	 The day after tomorrow
+Bạn có thể xem giúp tôi mấy  giờ được k?	 Could you tell me the time, please?
+Bạn có biết mấy giờ rồi không?	 Do you know what time it is?
+15 tháng mười	 15 October
+Hôm nay là ngày bao nhiêu?	 What's the date today?
+Trời nhiều nắng	 It’s sunny
+Thời tiết hôm nay tệ quá	 What miserable weather!
+Trời bắt đầu có mưa rồi	 It's starting to rain
+Trời đang bao nhiệu độ	 What's the temperature?
+Đang 22 độ	 It's 22°C
+Trời lạnh vô cùng	 It's below freezing
+Dự báo thời tiết thế nào?	 What's the forecast?
+Dự báo trời sẽ mưa	 It's forecast to rain
+Trông như trời sắp mưa	 It looks like rain
+Có ai muốn uống trà hay cà phê không?	 Would anyone like a tea or coffee?
+Nước sôi rồi	 The kettle's boiled
+Bạn có thể bật đén lên được không?	 Can you put the light on?
+Ti vi có chiều gì hay không?	 Is there anything good on TV?
+Bạn có muốn xem phim không?	 Do you want to watch a film?
+Bạn có cần tôi bật ti vi lên không	 Do you want me to put the TV on?
+Mấy giờ trận đấu bắt đầu?	 What time's the match on?
+Tỉ số bao nhiêu	 What's the score?
+Ai đá với ai?	 Who's playing?
+Ai thắng?	 Who won?
+Bạn thường ăn gì vào buổi sáng	 What would you like for breakfast?
+Bạn có thể đưa mình hộp đường không?	 Could you pass the sugar , please?
+Bạn muốn ăn gì nữa không?	 Would you like some more?
+Bạn ăn no chưa?	 Have you had enough to eat?
+Bạn muốn ăn tráng miệng không	 Would anyone like dessert?
+Tôi no rồi	 I’m full
+Ngon quá	 That was delicious
+Gặp bạn vui quá đi	 Good to see you!
+Trông bạn khỏe đấy	 You're looking well
+Bạn bỏ giày ở ngoài nhá	 Please take your shoes off
+Bạn đi đường ổn chứ?	 Did you have a good journey?
+Bạn tìm nhà tôi khó không?	 Did you find us alright?
+Tôi sẽ đưa bạn đi xem phòng của bạn	 I'll show you your room
+Bạn muốn uống lẫn với cái gì không?	 How do you take it?
+Bạn muốn uống lẫn với đường không?	 Do you take sugar?
+Ngồi đi	 Have a seat!
+Cho tôi mượn điện thoại của bạn được k?	 Could I use your phone?
+Cảm ơn bạn đã đến	 Thanks for coming
+Chúc câu thượng lộ bình an	 Have a safe journey home
+Phòng bán vé ở đâu?	 Where's the ticket office?
+Chuyến xe bus tiếp theo đến Portsmouth khởi hành lúc mấy giờ?	 What time's the next bus to Portsmouth?
+Chuyến xe bus này bị hủy rồi	 This Bus has been cancelled
+Bạn đến Ý bao giờ chưa?	 Have you ever been to Italy?
+Chưa, nhưng mình rất muốn 1 ngày nào đó được đến đó.	 I've never been, but I'd love to go someday
+Chuyến đi này mất bao lâu?	 How long does the journey take?
+Mấy giờ chúng ta đến nơi?	 What time do we arrive?
+Bạn có bị say xe không?	 Do you get travel sick?
+Chúc đi vui vẻ	 Enjoy your trip!
+Tôi muốn đi du lịch đến tây ban nha	 I'd like to travel to Spain
+Giá vé máy bay bao nhiêu?	 How much are the flights?
+Xin lỗi bạn có thể chỉ đường tôi đến bến xe bus không?	Excuse me, could you tell me how to get to the bus station?
+Tôi đang tìm địa chỉ này	 I'm looking for this address
+Chỗ đó ở hướng này	 It's this way
+Bạn đang đi sai đường rồi	 You're going the wrong way
+Đi đường này	 Take this road
+Đi xuống phía đó	 Go down there
+Sân bay cách đây bao xa?	 How far is it to the airport?
+Chỗ đó có xa không	 Is it a long way?
+Chỗ đó không xa?	 It's not far
+Khá xa	 It’s quite a long way
+Tôi có thể đỗ xe ở đây không?	 Can I park here?
+Trạm xăng gần nhất ở đâu?	 Where's the nearest petrol station?
+Chúng ta gần đến chưa?	 Are we nearly there?
+Bạn muốn bao nhiêu?	 How much would you like?
+Tôi muốn thuê ô tô?	 I'd like to hire a car
+Làm thế nào để mở...?	 How do you open the….?
+Tôi sẽ phải chờ bao lâu?	 How long will I have to wait?
+Sẽ mất bao lâu?	 How long will it be?
+Bạn muốn đi đâu	 Where would you like to go?
+Hãy chờ tôi ở trung tâm thành phố	 Could you take me to the city centre?
+Bạn có thể đón tôi ở đây lúc 6 giờ không?	 Could you pick me up here at 6 o'clock
+Bạn đợi tôi ở đây được không?	 Could you wait for me here?
+Mấy giờ có chuyến xe bus tiếp theo đến Camden?	 What time's the next bus to Camden?
+Khi nào bạn sẽ quay lại?	 When will you be coming back?
+Bạn có phiền nếu tôi mở cửa sổ không?	 Do you mind if I open the window?
+Tôi bị say sóng	 I feel seasick
+Bạn có thể giới thiệu cho tôi 1 vài khách sạn tốt không?	 Can you recommend any good hotel?
+Khách sạn này có mấy sao?	 How many stars does it have?
+Bạn muốn trả bao nhiệu tiền	 How much do you want to pay?
+Chỗ bạn còn phòng trống không?	 Do you have any vacancies?
+Bạn thích loại phòng nào?	 What sort of room would you like?
+Tôi muốn đặt 1 phòng đôi	 I'd like a double room
+Bạn có thế giảm giá được không?	 Can you offer me any discount?
+Cho tôi xem phòng được không?	 Could I see the room?
+Thang máy ở đâu	 Where are the lifts?
+Tôi muốn trả phòng	 I'd like to check out
+Tôi muốn thanh toán hóa đơn của tôi	 I'd like to pay my bill, please
+Bạn muốn thanh toán như thế nào?	 How would you like to pay?
+Tôi muốn trả bằng tiền mặt	 I'll pay in cash
+Chúng ta đi uống gì đó nhé	 Shall we go for a drink?
+Tối nay đi ăn hàng đi	 Let's eat out tonight
+Tôi có thể lấy cho bạn cái gì?	 What can I get you?
+Cho tôi xem cái menu	 Could we see a menu, please?
+ở đây có đồ ăn nóng không?	 Do you have any hot food?
+ăn ở đây hay mang về?	 Eat in or take-away?
+ở đây có truy cập internet khong?	 Do you have internet access here?
+Mọi việc ổn cả chứ?	 Was everything alright?
+Tôi có thể thử cái này không ( thử quần áo hay giầy dép gì đó)	 Could I try this on?
+Anh chị có muốn thử không?	 Do you want to try it on?
+Cỡ của bạn bao nhiêu?	 What size are you?
+Bạn lấy cỡ bao nhiêu?	 What size do you take?
+Tôi lấy cỡ 10	 I take a size 10
+Phòng thử đồ ở đâu	 Where's the fitting room?
+Nó có vừa không?	 Is that a good fit?
+Nó hơi chật	 It's a little too small
+Nó vừa khít	 It's just right
+Bạn nghĩ sao về những cái này?	 What do you think of these?
+Có thể đưa tôi xem được không?	 Can I have a look at it?
+Không giẫm lên cỏ	 Keep off the grass
+Chúng tôi cần 1 nơi để ở	 We need somewhere to stay
+Tôi muốn rút tiền	 I want to make a withdrawal
+Bạn muốn rút tiền loại nào	 How would you like the money?
+Tôi muốn bỏ tiền vào tài khoản	 I'd like to pay this in, please
+Tôi muốn mở một tài khoản	 I'd like to open an account
+Bạn có thể cho tôi biết sổ dư tài khoản của tôi không?	 Could you tell me my balance, please?
+Tôi muốn đổi 1 ít tiền	 I'd like to change some money
+Bạn thích màu gì?	 What colour would you like?
+Bạn mấy tầng?	 What floor is it on?
+ở rạp chiếu phim đang chiếu gì thế?	 What's on at the ciname?
+Chúng ta đi dạo nhé?	 Shall we go for a walk?
+Những vé này bao nhiêu tiền?	 How much are the tickets?
+Có giảm giá cho sinh viên không?	 Is there a discount for ...?
+Bạn muốn ngồi chỗ nào?	 Where would you like to sit?
+Nội dung fim này nói về cái gì?	 What's this film about?
+Bạn đã xem bao giờ chưa?	 Have you seen it?
+Bạn có thích không?	 Did you enjoy it?
+Mấy giờ bạn đóng cửa?	 What time do you close?
+Tôi có thể chụp ảnh được không?	 Can I take photographs?
+Tôi bị cúm	 I've got flu
+Mình sắp bị ốm	 I'm going to be sick
+Chân tôi bị đau	 My feet are hurting
+Bạn cảm thấy thế nào?	 How are you feeling?
+Bạn đã thấy đỡ hơn chưa?	 Are you feeling any better?
+Tôi mong bạn nhanh khỏe	 I hope you feel better soon
+Tôi cần đi khám bác sĩ	 I need to see a doctor
+Tôi nghĩ bãn nên đi gặp bác sĩ	 I think you should go and see a doctor
+Bạn đã làm ở đây bao lâu rồi?	 How long have you worked here?
+Tôi sẽ ra ngoài ăn trưa?	 I'm going out for lunch
+Tôi sẽ quay lại lúc 1h 30	 I'll be back at 1.30
+Bạn đến nơi làm việc bằng gì	 How do you get to work?
+Mấy giờ cuộc họp bắt đầu?	 What time does the meeting start?
+Mấy giờ cuộc họp kết thúc?	 What time does the meeting finish?
+Cho tôi xem bản báo cáo được không?	 Can I see the report?
+Tôi thấy quảng cáo của bạn trên báo	 I saw your advert in the paper
+Giờ làm việc như thế nào?	 What are the hours of work?
+Tôi có phải làm việc theo ca không?	 Will I have to work shifts?
+Việc này trả lương bao nhiệu?	 How much does the job pay?
+Mỗi năm được nghỉ lễ bao nhiêu tuần?	 How many weeks' holiday a year are there?
+Tôi muốn nhận việc này	 I'd like to take the job
+Khi nào bạn muốn tôi bắt đầu?	 When do you want me to start?
+Chúng tôi muốn mời bạn đi phỏng vấn	 We'd like to invite you for an interview
+Đây là bản mô tả công việc	 This is the job description
+Bạn có kinh nghiệm gì không?	 Have you got any experience?
+Bạn có bằng cấp chuyên môn nào không?	 Have you got any qualifications?
+Chúng tôi cần người có kinh nghiệm	 We need someone with experience
+Bạn có bằng cấp gì?	 What qualifications have you got?
+Dây là hợp đồng lao động của bạn	 This is your employment contract
+Xin cho tôi gặp bill	 Could I speak to Bill , please?
+Tôi nghe	 Speaking!
+Ai gọi đấy	 who's calling?
+Tôi sẽ nối máy với anh ấy	 I'll put him on
+Bạn có muốn để lại lời nhắn không?	 Would you like to leave a message?
+Bạn có thể nhắn với anh ấy gọi cho tôi k?	 Could you ask him to call me?
+Bây giờ có tiện nói chuyện không?	 Is it convenient to talk at the moment?
+Máy tôi sắp hết pin rồi	 My battery's about to run out
+Điện thoại tôi sắp hết tiền	 I'm about to run out of credit
+Tôi sẽ nhắn tin cho bạn	 I'll send you a text
+Tôi có thể mượn điện thoại của bạn được k	 Could I borrow your phone, please?
+Tôi muốn mua 1 card điện thoại	 I'd like a phonecard, please
+Rất mong sớm gặp lại bạn	 Look forward to seeing you soon!
+Bạn đã học tiếng anh ở đâu	 Where did you learn your English?
+Tôi tự học	 I taught myself
+Từ này phát âm thế nào	 How do you pronounce this word?
+Tôi k phản đối đâu	 I don't mind
+Còn gì nữa không?	 Anything else?
+Bạn có sợ không?	 Are you afraid?
+Bạn đang chờ ai đó hả	  Are you waiting for someone?
+Ngày mai bạn có làm việc không?	 Are you working Tomorrow?
+Việc đó xảy ra lúc mấy giờ?	 At what time did it happen?
+Bạn đang nghĩ gì?	 What are you thinking about?
+Tối qua bạn làm gì?	 What did you do last night?
+Anh ấy làm nghề gì?	 What does he do for work?
+Bạn đã thức dậy lúc mấy giờ	 What time did you get up?
+Mấy giờ nó bắt đầu	 What time does it start?
+Khi nào anh ấy sẽ trở lại	 When will he be back?
+Tại sao bạn đã làm làm điều đó	 Why did you do that?
+Họ đã gặp cô ta chưa?	 Have they met her yet?
+Bạn tới chưa?	 Have you arrived?
+Bạn đã làm việc này trước đây chưa?	 Have you done this before?
+Bạn đã ăn chưa?	 Have you eaten yet?
+Tôi dùng cái này như thế nào?	 How do I use this?
+Nó có vị ra ra?	 How does it taste?
+Cô ta như thế nào?	  How is she?
+Gia đình bạn có bao nhiêu người	 How many people do you have in your family?
+Việc làm ăn thế nào	 How's business?
+Thử vận may	 Take a chance.
+Mang nó ra ngoài	 Take it outside.
+Bạn có hẹn không?	 Do you have an appointment?
+Bạn có đủ tiền không?	 Do you have any money?
+Bạn có nghe cái đó không?	 Do you hear that?
+Bạn có biết cô ta không?	 Do you know her?
+Bạn có biết cái này nghĩa là gì không?	 Do you know what this means?
+Bán có cần gì nữa không?	 Do you need anything else?
+Bán nghĩ ngày mai có mưa không?	 Do you think it's going to rain tomorrow?
+Bạn nghĩ điều đó có thể xảy ra không?	 Do you think it's possible?
+Đừng làm điều đó	 Don't do that.
+Vùng quê hẻo lánh	 Isolated rural locations
+Tôi đi đây, tôi không chịu được những thứ vớ vẩn ở đây nữa	 I'm leaving. I've had enough of all this nonsense!
+Bạn dịch có đúng không?	 Is your translation correct?
+Nó không đi đến đâu đâu	 It comes to nothing.
+Tôi đang phát điên lên đây	 I'm going out of my mind!
+Trời mưa tầm tả	 It's raining cats and dogs.
+Họa vô đơn chí	 It never rains but it pours.
+Tôi đi ngủ đây, tôi rất mệt	 I'm going to bed now – I'm beat.
+Tôi rất khá tennis	 I'm pretty hot at tennis.
+Nếu công việc của bạn tệ quá thì bỏ đi	 If your job really sucks, leave it.
+Tôi đã nói với bạn nhiều lần lắm rồi	 I've told you umpteen times.
+Nếu bạn k làm việc cực lực, bạn sẽ là người vô dụng	 If you don't work hard, you'll end up a zero.
+Tôi đang thèm 1 li cafe	 I'm dying for a cup of coffee.
+Không biết bạn còn nhớ tôi không	 I'm not sure if you remember me.
+Tôi chưa bao giờ bỏ lỡ dịp nào	 I never miss a chance.
+Tôi thì gì cũng được	 It's all the same to me.

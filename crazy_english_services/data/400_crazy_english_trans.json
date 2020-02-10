@@ -1,0 +1,1602 @@
+[
+  {
+    "vi": "Tình hình thế nào?",
+    "en": "How’s it going?"
+  },
+  {
+    "vi": "Tình hình thế nào?",
+    "en": "How are you doing?"
+  },
+  {
+    "vi": "Tình hình thế nào?",
+    "en": "How’s life?"
+  },
+  {
+    "vi": "Tình hình thế nào?",
+    "en": "How are things?"
+  },
+  {
+    "vi": "Bạn đang làm gì đấy?",
+    "en": "What are you up to?"
+  },
+  {
+    "vi": "Dạo này bạn làm gì",
+    "en": "What have you been up to?"
+  },
+  {
+    "vi": "Làm việc nhiều",
+    "en": "Working a lot"
+  },
+  {
+    "vi": "Học nhiều",
+    "en": "Studying a lot"
+  },
+  {
+    "vi": "Dạo này tôi rất bận",
+    "en": "I’ve been very busy"
+  },
+  {
+    "vi": "Vẫn như mọi khi",
+    "en": "Same as usual"
+  },
+  {
+    "vi": "Bạn có kế hoạch gì cho hè này không?",
+    "en": "Do you have any plans for the summer?"
+  },
+  {
+    "vi": "Bạn có hút thuốc không?",
+    "en": "Do you smoke?"
+  },
+  {
+    "vi": "Xin lỗi, tôi không nghe rõ tên bạn",
+    "en": "I’m sorry, I didn’t catch your name"
+  },
+  {
+    "vi": "Các bạn có biết nhau trước không?",
+    "en": "Do you know each other?"
+  },
+  {
+    "vi": "Các bạn biết nhau trong trường hợp nào?",
+    "en": "How do you know each other?"
+  },
+  {
+    "vi": "Chúng tôi làm cùng nhau",
+    "en": "We work together"
+  },
+  {
+    "vi": "Chúng tôi đã từng làm cùng nhau",
+    "en": "We used to work together"
+  },
+  {
+    "vi": "Chúng tôi đã từng học đại học cùng nhau",
+    "en": "We went to university together"
+  },
+  {
+    "vi": "Qua bạn bè",
+    "en": "Through friends"
+  },
+  {
+    "vi": "Tôi sinh ra ở Úc nhưng lớn lên ở Anh",
+    "en": "I was born in Australia but grew up in England"
+  },
+  {
+    "vi": "Điều gì đã đem bạn đến với nước Anh?",
+    "en": "What brings you to England?"
+  },
+  {
+    "vi": "Tôi đi nghỉ",
+    "en": "I’m on holiday"
+  },
+  {
+    "vi": "Tôi đi công tác",
+    "en": "I’m on business"
+  },
+  {
+    "vi": "Tại sao bạn lại đến nước Anh?",
+    "en": "Why did you come to the UK?"
+  },
+  {
+    "vi": "Tôi đến đây làm việc",
+    "en": "I came here to work"
+  },
+  {
+    "vi": "Tôi đến đây học",
+    "en": "I came here to study"
+  },
+  {
+    "vi": "Tôi muốn sống ở nước ngoài",
+    "en": "I wanted to live abroad"
+  },
+  {
+    "vi": "Bạn đã sống ở đây bao lâu rồi?",
+    "en": "How long have you lived here?"
+  },
+  {
+    "vi": "Tôi vừa mới đến",
+    "en": "I’ve only just arrived"
+  },
+  {
+    "vi": "Vài tháng",
+    "en": "A few months"
+  },
+  {
+    "vi": "Khoảng hơn 2 năm",
+    "en": "Just over two years"
+  },
+  {
+    "vi": "Bạn định sống ở đây bao lâu?",
+    "en": "How long are you planning to stay here"
+  },
+  {
+    "vi": "1 năm nữa",
+    "en": "Another year"
+  },
+  {
+    "vi": "Bạn có thích ở đây không?",
+    "en": "Do you like it here?"
+  },
+  {
+    "vi": "Mình rất thích",
+    "en": "I like it a lot"
+  },
+  {
+    "vi": "Bạn thích ở đây ở điểm nào?",
+    "en": "What do you like about it?"
+  },
+  {
+    "vi": "Tôi thích đồ ăn",
+    "en": "I like the food"
+  },
+  {
+    "vi": "Tôi thích thời tiết",
+    "en": "I like the weather"
+  },
+  {
+    "vi": "Tôi thích con người",
+    "en": "I like the people"
+  },
+  {
+    "vi": "Sinh nhật bạn ngày nào",
+    "en": "When’s your birthday?"
+  },
+  {
+    "vi": "Bạn ở với ai?",
+    "en": "Who do you live with?"
+  },
+  {
+    "vi": "Bạn có ở với ai không?",
+    "en": "Do you live with anybody?"
+  },
+  {
+    "vi": "Tôi ở với 1 ngừơi bạn",
+    "en": "I live with a friend"
+  },
+  {
+    "vi": "Bạn ở 1 mình à",
+    "en": "Do you live on your own?"
+  },
+  {
+    "vi": "Mình ở với 1 người nữa",
+    "en": "I share with one other person"
+  },
+  {
+    "vi": "Địa chỉ email của bạn là gì?",
+    "en": "What’s your email address?"
+  },
+  {
+    "vi": "Cho mình số đt của bạn được không?",
+    "en": "Could i take your phone number?"
+  },
+  {
+    "vi": "Bạn có dùng facebook không?",
+    "en": "Are you on Facebook?"
+  },
+  {
+    "vi": "Bạn có anh chị em không?",
+    "en": "Do you have any brothers or sisters?"
+  },
+  {
+    "vi": "Tôi có một em trai",
+    "en": "Yes, I’ve got a brother."
+  },
+  {
+    "vi": "Không, tôi là con một",
+    "en": "No, I’m an only child"
+  },
+  {
+    "vi": "Bạn có con không?",
+    "en": "Do you have any children?"
+  },
+  {
+    "vi": "Tôi không có con",
+    "en": "I don’t have any children"
+  },
+  {
+    "vi": "Ông/Bà có cháu không",
+    "en": "Do you have any grandchildren?"
+  },
+  {
+    "vi": "Bố mẹ bạn còn sống chứ?",
+    "en": "Are your parents still alive?"
+  },
+  {
+    "vi": "Bố mẹ bạn sông ở đâu?",
+    "en": "Where do your parents alive?"
+  },
+  {
+    "vi": "Bố bạn làm nghề gì?",
+    "en": "What does your father do?"
+  },
+  {
+    "vi": "Bạn có bạn trai chưa?",
+    "en": "Do you have a boyfriend?"
+  },
+  {
+    "vi": "Bạn có đang hẹn hò với ai không?",
+    "en": "Are you seeing anyone?"
+  },
+  {
+    "vi": "Tôi đang hẹn hò.",
+    "en": "I’m seeing someone."
+  },
+  {
+    "vi": "Họ tên gì?",
+    "en": "What are their names?"
+  },
+  {
+    "vi": "Họ tên là Neil và Anna",
+    "en": "They’re called Neil and Anna"
+  },
+  {
+    "vi": "Anh ấy tên gì?",
+    "en": "What’s his name?"
+  },
+  {
+    "vi": "Bạn thích làm gì khi có thời gian rãnh rỗi?",
+    "en": "What do you like doing in your spare time?"
+  },
+  {
+    "vi": "Tôi thích nghe nhạc",
+    "en": "I like listening to music"
+  },
+  {
+    "vi": "Tôi thích đi chơi",
+    "en": "I love going out"
+  },
+  {
+    "vi": "Tôi thích đi du lịch",
+    "en": "I enjoy travelling"
+  },
+  {
+    "vi": "Tôi không thích các câu lạc bộ đêm",
+    "en": "I don’t like nightclubs"
+  },
+  {
+    "vi": "Tôi quan tâm đến ngôn ngữ",
+    "en": "I’m interested in languages"
+  },
+  {
+    "vi": "Gần đây bạn có xem bộ phim nào hay k?",
+    "en": "Have you seen any good films recently"
+  },
+  {
+    "vi": "Bạn có chơi môn thể thao nào không",
+    "en": "Do you play any sports?"
+  },
+  {
+    "vi": "Có, tôi chơi đá bóng",
+    "en": "Yes, i play football"
+  },
+  {
+    "vi": "Bạn cổ vũ đội nào",
+    "en": "Which team do you support?"
+  },
+  {
+    "vi": "Tôi cổ vũ MU",
+    "en": "I support Machester United"
+  },
+  {
+    "vi": "Bạn có chơi nhạc cụ nào không?",
+    "en": "Do you play any instruments?"
+  },
+  {
+    "vi": "Tôi chơi trong ban nhạc",
+    "en": "I’m in a band"
+  },
+  {
+    "vi": "Tôi hát trong đội hợp xướng",
+    "en": "I sing in a choir"
+  },
+  {
+    "vi": "Bạn thích loại nhạc nào?",
+    "en": "What sort of music do you like?"
+  },
+  {
+    "vi": "Nhiều thể loại khác nhau",
+    "en": "Lost of different stuff"
+  },
+  {
+    "vi": "Bạn có yêu thích ban nhạc nào không?",
+    "en": "Have you got any favourite bands?"
+  },
+  {
+    "vi": "Bạn làm loại công việc gì?",
+    "en": "What sort of work do you do?"
+  },
+  {
+    "vi": "Tôi làm nghề lập trình máy tính",
+    "en": "I work as a programer"
+  },
+  {
+    "vi": "Bạn làm trong ngành gì",
+    "en": "What line of work are you in?"
+  },
+  {
+    "vi": "Tôi làm trong kinh doanh",
+    "en": "I work in sales"
+  },
+  {
+    "vi": "Tôi ở nhà trông con",
+    "en": "I stay at home and look after the children"
+  },
+  {
+    "vi": "Tôi là nội trợ",
+    "en": "I’m a housewife"
+  },
+  {
+    "vi": "Tôi làm việc bán thời gian",
+    "en": "I’ve got a part – time job"
+  },
+  {
+    "vi": "Tôi đang thất nghiệp",
+    "en": "I’m unemployed"
+  },
+  {
+    "vi": "Tôi đang tìm việc",
+    "en": "I’m looking for work"
+  },
+  {
+    "vi": "Tôi vừa bị sa thải",
+    "en": "I’ve been made redundant"
+  },
+  {
+    "vi": "Tôi đã nghỉ hưu",
+    "en": "I’m retired"
+  },
+  {
+    "vi": "Bạn làm việc cho công ty nào?",
+    "en": "Who do you work for?"
+  },
+  {
+    "vi": "Tôi làm việc cho 1 ngân hàng đầu tư",
+    "en": "I work for an investment bank"
+  },
+  {
+    "vi": "Tôi tự làm chủ",
+    "en": "I work for myself"
+  },
+  {
+    "vi": "Tôi có công ty riêng",
+    "en": "I have my own business"
+  },
+  {
+    "vi": "Tôi mới về làm cho công ty IBM",
+    "en": "I’ve just started at IBM"
+  },
+  {
+    "vi": "Bạn làm việc ở đâu?",
+    "en": "Where do you work?"
+  },
+  {
+    "vi": "Tôi làm việc ở ngân hàng",
+    "en": "I work in a bank"
+  },
+  {
+    "vi": "Tôi được đào tạo để trở thành kĩ sư",
+    "en": "I’m training to be an engineer"
+  },
+  {
+    "vi": "Tôi là tập sự kế toán",
+    "en": "I’m a trainee accountant"
+  },
+  {
+    "vi": "Hiện giờ mình đang tham gia 1 khóa học",
+    "en": "I’m on a course at the moment"
+  },
+  {
+    "vi": "Tôi đang đi thực tập",
+    "en": "I’m on work experience"
+  },
+  {
+    "vi": "Bạn có phải là sinh viên không?",
+    "en": "Are you a student?"
+  },
+  {
+    "vi": "Bạn học ngành gì?",
+    "en": "what do you study?"
+  },
+  {
+    "vi": "Tôi học kinh tế",
+    "en": "I’m studying economics"
+  },
+  {
+    "vi": "Bạn học ở đâu?",
+    "en": "Where do you study?"
+  },
+  {
+    "vi": "Bạn học trường đại học nào?",
+    "en": "Which university are you at?"
+  },
+  {
+    "vi": "Tôi học đại học liverpool",
+    "en": "I’m at liverpool university"
+  },
+  {
+    "vi": "Bạn học năm thứ mấy?",
+    "en": "Which year are you in?"
+  },
+  {
+    "vi": "Tôi học năm cuối",
+    "en": "I’m in my final year"
+  },
+  {
+    "vi": "Bạn có kì thi nào sắp tới không?",
+    "en": "Do you have any exams coming up?"
+  },
+  {
+    "vi": "Tôi vừa tốt nghiệp",
+    "en": "I’ve just graduated"
+  },
+  {
+    "vi": "Bạn có học đại học không?",
+    "en": "Did you go to university?"
+  },
+  {
+    "vi": "Trước kia bạn học đại học nào?",
+    "en": "Where did you go to university?"
+  },
+  {
+    "vi": "Tôi học cb",
+    "en": "I went to cambridge"
+  },
+  {
+    "vi": "Trước kia bạn học ngành gì?",
+    "en": "What did you study?"
+  },
+  {
+    "vi": "Bạn còn phải học bao nhiêu năm nữa?",
+    "en": "How many more years do you have to go?"
+  },
+  {
+    "vi": "Sau khi học xong ban muốn làm gì?",
+    "en": "What do you want to do when you’ve finished?"
+  },
+  {
+    "vi": "Đi làm",
+    "en": "Get a job"
+  },
+  {
+    "vi": "Minh chưa biết làm gì khi học xong đại học",
+    "en": "I don’t know what in want to do after university"
+  },
+  {
+    "vi": "Bạn theo tôn giáo nào?",
+    "en": "What religion are you?"
+  },
+  {
+    "vi": "Tôi theo đạo thiên chúa",
+    "en": "I’m a Christian"
+  },
+  {
+    "vi": "Bạn có tin vào chúa không?",
+    "en": "Do you believe in God?"
+  },
+  {
+    "vi": "Mình tin vào chúa",
+    "en": "I believe in God"
+  },
+  {
+    "vi": "Gần đây có nhà thờ nào không?",
+    "en": "Is there a church near hear?"
+  },
+  {
+    "vi": "Anh mua cho em đồ uống gì đó nhé?",
+    "en": "Can I buy you a drink?"
+  },
+  {
+    "vi": "Bạn đi 1 mình à?",
+    "en": "Are you on your own?"
+  },
+  {
+    "vi": "Bạn có muốn tham gia cùng chúng tôi không?",
+    "en": "Would you like to join us?"
+  },
+  {
+    "vi": "Bạn có thường xuyên đến đây không?",
+    "en": "Do you come here often?"
+  },
+  {
+    "vi": "Đây có phải lần đầu tiên bạn đến đây không?",
+    "en": "Is this your first time here?"
+  },
+  {
+    "vi": "Bạn đến đây bao giờ chưa?",
+    "en": "Have you been here before?"
+  },
+  {
+    "vi": "Bạn có muốn nhảy không?",
+    "en": "Would you like to dance?"
+  },
+  {
+    "vi": "Bạn có muốn khi nào đó mình đi uống nước k?",
+    "en": "Do you want to go for a drink sometime?"
+  },
+  {
+    "vi": "Nếu khi nào bạn muốn gặp tôi thì báo tôi biết nhé !",
+    "en": "If you'd like to meet up sometime, let me know!"
+  },
+  {
+    "vi": "Bạn có muốn đi uống cafe với tôi không?",
+    "en": "Would you like to join me for a coffee?"
+  },
+  {
+    "vi": "Em có muốn khi nào đó mình đi xem phim k?",
+    "en": "Do you fancy going to see a film sometime?"
+  },
+  {
+    "vi": "Nghe hấp dẫn đấy",
+    "en": "That sounds good"
+  },
+  {
+    "vi": "Rất tiếc, bạn không phải là mẫu người của tôi !",
+    "en": "Sorry, you're not my type!"
+  },
+  {
+    "vi": "Đây là số điện thoại của tôi",
+    "en": "Here's my number"
+  },
+  {
+    "vi": "Trông bạn tuyệt lắm",
+    "en": "You look great"
+  },
+  {
+    "vi": "Tối nay trông bạn rất tuyệt",
+    "en": "You look very nice tonight"
+  },
+  {
+    "vi": "Tôi thích bộ đồ của bạn",
+    "en": "I like your outfit"
+  },
+  {
+    "vi": "Trông bạn rất ưa nhìn",
+    "en": "You're really good-looking"
+  },
+  {
+    "vi": "Bạn có đôi mắt rất đẹp",
+    "en": "You've got beautiful eyes"
+  },
+  {
+    "vi": "Bạn có nụ cười rất đẹp",
+    "en": "You've got a great smile"
+  },
+  {
+    "vi": "Cảm ơn vì lời khen",
+    "en": "Thanks for the compliment!"
+  },
+  {
+    "vi": "Bạn thấy chỗ này thế nào?",
+    "en": "What do you think of this place?"
+  },
+  {
+    "vi": "Chúng ta đi chỗ khác nhé",
+    "en": "Shall we go somewhere else?"
+  },
+  {
+    "vi": "Tôi biết một chỗ rất hay",
+    "en": "I know a good place"
+  },
+  {
+    "vi": "Tôi có thể hôn bạn được không?",
+    "en": "Can I kiss you?"
+  },
+  {
+    "vi": "Tôi đi bộ cùng bạn về nhà được không?",
+    "en": "Can I walk you home?"
+  },
+  {
+    "vi": "Tôi có thể lái xe đưa bạn về nhà không?",
+    "en": "Can I drive you home?"
+  },
+  {
+    "vi": "Bạn có muốn vào nhà uống tách cafe k?",
+    "en": "Would you like to come in for a coffee?"
+  },
+  {
+    "vi": "Cảm ơn, tôi đã có 1 buổi tối rấ tuyệt",
+    "en": "Thanks, I had a great evening"
+  },
+  {
+    "vi": "Khi nào tôi có thể gặp lại bạn?",
+    "en": "When can I see you again?"
+  },
+  {
+    "vi": "Tôi sẽ gọi cho bạn",
+    "en": "I'll call you"
+  },
+  {
+    "vi": "Tôi rất muốn dành thơi gian bên bạn",
+    "en": "I enjoy spending time with you"
+  },
+  {
+    "vi": "Tôi thấy bạn rất hấp dẫn",
+    "en": "I find you very attractive"
+  },
+  {
+    "vi": "Đồng ý cưới tôi nhé",
+    "en": "Will you marry me?"
+  },
+  {
+    "vi": "Tối nay bạn có bận gì không?",
+    "en": "Are you up to anything this evening?"
+  },
+  {
+    "vi": "Bạn có kế hoạch gì cho tối nay chưa?",
+    "en": "Have you got any plans for this evening"
+  },
+  {
+    "vi": "Tối nay bạn muốn làm gì?",
+    "en": "What would you like to do this evening?"
+  },
+  {
+    "vi": "Bạn muốn đi đâu vào cuối tuần này không?",
+    "en": "Do you want to go somewhere at the weekend?"
+  },
+  {
+    "vi": "Bạn có muốn đi ăn gì đó với tơi không?",
+    "en": "Would you like to join me for something to eat?"
+  },
+  {
+    "vi": "Mấy giờ chúng ta gặp nhau?",
+    "en": "What time shall we meet?"
+  },
+  {
+    "vi": "Chúng ta gặp nhau lúc 8 giờ nhé",
+    "en": "Let's meet at 8 o’clock"
+  },
+  {
+    "vi": "Bạn muốn gặp nhau ở đâu?",
+    "en": "Where would you like to meet?"
+  },
+  {
+    "vi": "Tôi sẽ gặp bạn ở rạp chiếu fim lúc 10 giờ",
+    "en": "I'll see you at the cinema at 10 o'clock"
+  },
+  {
+    "vi": "Hẹn gặp bạn ở đó nhé !",
+    "en": "See you there!"
+  },
+  {
+    "vi": "Nói cho tôi biết nếu bạn đi được nhé",
+    "en": "Let me know if you can make it"
+  },
+  {
+    "vi": "Tôi sẽ đén trong vòng 10 phút nữa",
+    "en": "I'll be there in 10 minutes"
+  },
+  {
+    "vi": "Bạn đến lâu chưa?",
+    "en": "Have you been here long?"
+  },
+  {
+    "vi": "Bạn đợi lâu chưa?",
+    "en": "Have you been waiting long?"
+  },
+  {
+    "vi": "Hôm kia",
+    "en": "The day before yesterday"
+  },
+  {
+    "vi": "Ngày kia",
+    "en": "The day after tomorrow"
+  },
+  {
+    "vi": "Bạn có thể xem giúp tôi mấy  giờ được k?",
+    "en": "Could you tell me the time, please?"
+  },
+  {
+    "vi": "Bạn có biết mấy giờ rồi không?",
+    "en": "Do you know what time it is?"
+  },
+  {
+    "vi": "15 tháng mười",
+    "en": "15 October"
+  },
+  {
+    "vi": "Hôm nay là ngày bao nhiêu?",
+    "en": "What's the date today?"
+  },
+  {
+    "vi": "Trời nhiều nắng",
+    "en": "It’s sunny"
+  },
+  {
+    "vi": "Thời tiết hôm nay tệ quá",
+    "en": "What miserable weather!"
+  },
+  {
+    "vi": "Trời bắt đầu có mưa rồi",
+    "en": "It's starting to rain"
+  },
+  {
+    "vi": "Trời đang bao nhiệu độ",
+    "en": "What's the temperature?"
+  },
+  {
+    "vi": "Đang 22 độ",
+    "en": "It's 22°C"
+  },
+  {
+    "vi": "Trời lạnh vô cùng",
+    "en": "It's below freezing"
+  },
+  {
+    "vi": "Dự báo thời tiết thế nào?",
+    "en": "What's the forecast?"
+  },
+  {
+    "vi": "Dự báo trời sẽ mưa",
+    "en": "It's forecast to rain"
+  },
+  {
+    "vi": "Trông như trời sắp mưa",
+    "en": "It looks like rain"
+  },
+  {
+    "vi": "Có ai muốn uống trà hay cà phê không?",
+    "en": "Would anyone like a tea or coffee?"
+  },
+  {
+    "vi": "Nước sôi rồi",
+    "en": "The kettle's boiled"
+  },
+  {
+    "vi": "Bạn có thể bật đén lên được không?",
+    "en": "Can you put the light on?"
+  },
+  {
+    "vi": "Ti vi có chiều gì hay không?",
+    "en": "Is there anything good on TV?"
+  },
+  {
+    "vi": "Bạn có muốn xem phim không?",
+    "en": "Do you want to watch a film?"
+  },
+  {
+    "vi": "Bạn có cần tôi bật ti vi lên không",
+    "en": "Do you want me to put the TV on?"
+  },
+  {
+    "vi": "Mấy giờ trận đấu bắt đầu?",
+    "en": "What time's the match on?"
+  },
+  {
+    "vi": "Tỉ số bao nhiêu",
+    "en": "What's the score?"
+  },
+  {
+    "vi": "Ai đá với ai?",
+    "en": "Who's playing?"
+  },
+  {
+    "vi": "Ai thắng?",
+    "en": "Who won?"
+  },
+  {
+    "vi": "Bạn thường ăn gì vào buổi sáng",
+    "en": "What would you like for breakfast?"
+  },
+  {
+    "vi": "Bạn có thể đưa mình hộp đường không?",
+    "en": "Could you pass the sugar , please?"
+  },
+  {
+    "vi": "Bạn muốn ăn gì nữa không?",
+    "en": "Would you like some more?"
+  },
+  {
+    "vi": "Bạn ăn no chưa?",
+    "en": "Have you had enough to eat?"
+  },
+  {
+    "vi": "Bạn muốn ăn tráng miệng không",
+    "en": "Would anyone like dessert?"
+  },
+  {
+    "vi": "Tôi no rồi",
+    "en": "I’m full"
+  },
+  {
+    "vi": "Ngon quá",
+    "en": "That was delicious"
+  },
+  {
+    "vi": "Gặp bạn vui quá đi",
+    "en": "Good to see you!"
+  },
+  {
+    "vi": "Trông bạn khỏe đấy",
+    "en": "You're looking well"
+  },
+  {
+    "vi": "Bạn bỏ giày ở ngoài nhá",
+    "en": "Please take your shoes off"
+  },
+  {
+    "vi": "Bạn đi đường ổn chứ?",
+    "en": "Did you have a good journey?"
+  },
+  {
+    "vi": "Bạn tìm nhà tôi khó không?",
+    "en": "Did you find us alright?"
+  },
+  {
+    "vi": "Tôi sẽ đưa bạn đi xem phòng của bạn",
+    "en": "I'll show you your room"
+  },
+  {
+    "vi": "Bạn muốn uống lẫn với cái gì không?",
+    "en": "How do you take it?"
+  },
+  {
+    "vi": "Bạn muốn uống lẫn với đường không?",
+    "en": "Do you take sugar?"
+  },
+  {
+    "vi": "Ngồi đi",
+    "en": "Have a seat!"
+  },
+  {
+    "vi": "Cho tôi mượn điện thoại của bạn được k?",
+    "en": "Could I use your phone?"
+  },
+  {
+    "vi": "Cảm ơn bạn đã đến",
+    "en": "Thanks for coming"
+  },
+  {
+    "vi": "Chúc câu thượng lộ bình an",
+    "en": "Have a safe journey home"
+  },
+  {
+    "vi": "Phòng bán vé ở đâu?",
+    "en": "Where's the ticket office?"
+  },
+  {
+    "vi": "Chuyến xe bus tiếp theo đến Portsmouth khởi hành lúc mấy giờ?",
+    "en": "What time's the next bus to Portsmouth?"
+  },
+  {
+    "vi": "Chuyến xe bus này bị hủy rồi",
+    "en": "This Bus has been cancelled"
+  },
+  {
+    "vi": "Bạn đến Ý bao giờ chưa?",
+    "en": "Have you ever been to Italy?"
+  },
+  {
+    "vi": "Chưa, nhưng mình rất muốn 1 ngày nào đó được đến đó.",
+    "en": "I've never been, but I'd love to go someday"
+  },
+  {
+    "vi": "Chuyến đi này mất bao lâu?",
+    "en": "How long does the journey take?"
+  },
+  {
+    "vi": "Mấy giờ chúng ta đến nơi?",
+    "en": "What time do we arrive?"
+  },
+  {
+    "vi": "Bạn có bị say xe không?",
+    "en": "Do you get travel sick?"
+  },
+  {
+    "vi": "Chúc đi vui vẻ",
+    "en": "Enjoy your trip!"
+  },
+  {
+    "vi": "Tôi muốn đi du lịch đến tây ban nha",
+    "en": "I'd like to travel to Spain"
+  },
+  {
+    "vi": "Giá vé máy bay bao nhiêu?",
+    "en": "How much are the flights?"
+  },
+  {
+    "vi": "Xin lỗi bạn có thể chỉ đường tôi đến bến xe bus không?",
+    "en": "Excuse me, could you tell me how to get to the bus station?"
+  },
+  {
+    "vi": "Tôi đang tìm địa chỉ này",
+    "en": "I'm looking for this address"
+  },
+  {
+    "vi": "Chỗ đó ở hướng này",
+    "en": "It's this way"
+  },
+  {
+    "vi": "Bạn đang đi sai đường rồi",
+    "en": "You're going the wrong way"
+  },
+  {
+    "vi": "Đi đường này",
+    "en": "Take this road"
+  },
+  {
+    "vi": "Đi xuống phía đó",
+    "en": "Go down there"
+  },
+  {
+    "vi": "Sân bay cách đây bao xa?",
+    "en": "How far is it to the airport?"
+  },
+  {
+    "vi": "Chỗ đó có xa không",
+    "en": "Is it a long way?"
+  },
+  {
+    "vi": "Chỗ đó không xa?",
+    "en": "It's not far"
+  },
+  {
+    "vi": "Khá xa",
+    "en": "It’s quite a long way"
+  },
+  {
+    "vi": "Tôi có thể đỗ xe ở đây không?",
+    "en": "Can I park here?"
+  },
+  {
+    "vi": "Trạm xăng gần nhất ở đâu?",
+    "en": "Where's the nearest petrol station?"
+  },
+  {
+    "vi": "Chúng ta gần đến chưa?",
+    "en": "Are we nearly there?"
+  },
+  {
+    "vi": "Bạn muốn bao nhiêu?",
+    "en": "How much would you like?"
+  },
+  {
+    "vi": "Tôi muốn thuê ô tô?",
+    "en": "I'd like to hire a car"
+  },
+  {
+    "vi": "Làm thế nào để mở...?",
+    "en": "How do you open the….?"
+  },
+  {
+    "vi": "Tôi sẽ phải chờ bao lâu?",
+    "en": "How long will I have to wait?"
+  },
+  {
+    "vi": "Sẽ mất bao lâu?",
+    "en": "How long will it be?"
+  },
+  {
+    "vi": "Bạn muốn đi đâu",
+    "en": "Where would you like to go?"
+  },
+  {
+    "vi": "Hãy chờ tôi ở trung tâm thành phố",
+    "en": "Could you take me to the city centre?"
+  },
+  {
+    "vi": "Bạn có thể đón tôi ở đây lúc 6 giờ không?",
+    "en": "Could you pick me up here at 6 o'clock"
+  },
+  {
+    "vi": "Bạn đợi tôi ở đây được không?",
+    "en": "Could you wait for me here?"
+  },
+  {
+    "vi": "Mấy giờ có chuyến xe bus tiếp theo đến Camden?",
+    "en": "What time's the next bus to Camden?"
+  },
+  {
+    "vi": "Khi nào bạn sẽ quay lại?",
+    "en": "When will you be coming back?"
+  },
+  {
+    "vi": "Bạn có phiền nếu tôi mở cửa sổ không?",
+    "en": "Do you mind if I open the window?"
+  },
+  {
+    "vi": "Tôi bị say sóng",
+    "en": "I feel seasick"
+  },
+  {
+    "vi": "Bạn có thể giới thiệu cho tôi 1 vài khách sạn tốt không?",
+    "en": "Can you recommend any good hotel?"
+  },
+  {
+    "vi": "Khách sạn này có mấy sao?",
+    "en": "How many stars does it have?"
+  },
+  {
+    "vi": "Bạn muốn trả bao nhiệu tiền",
+    "en": "How much do you want to pay?"
+  },
+  {
+    "vi": "Chỗ bạn còn phòng trống không?",
+    "en": "Do you have any vacancies?"
+  },
+  {
+    "vi": "Bạn thích loại phòng nào?",
+    "en": "What sort of room would you like?"
+  },
+  {
+    "vi": "Tôi muốn đặt 1 phòng đôi",
+    "en": "I'd like a double room"
+  },
+  {
+    "vi": "Bạn có thế giảm giá được không?",
+    "en": "Can you offer me any discount?"
+  },
+  {
+    "vi": "Cho tôi xem phòng được không?",
+    "en": "Could I see the room?"
+  },
+  {
+    "vi": "Thang máy ở đâu",
+    "en": "Where are the lifts?"
+  },
+  {
+    "vi": "Tôi muốn trả phòng",
+    "en": "I'd like to check out"
+  },
+  {
+    "vi": "Tôi muốn thanh toán hóa đơn của tôi",
+    "en": "I'd like to pay my bill, please"
+  },
+  {
+    "vi": "Bạn muốn thanh toán như thế nào?",
+    "en": "How would you like to pay?"
+  },
+  {
+    "vi": "Tôi muốn trả bằng tiền mặt",
+    "en": "I'll pay in cash"
+  },
+  {
+    "vi": "Chúng ta đi uống gì đó nhé",
+    "en": "Shall we go for a drink?"
+  },
+  {
+    "vi": "Tối nay đi ăn hàng đi",
+    "en": "Let's eat out tonight"
+  },
+  {
+    "vi": "Tôi có thể lấy cho bạn cái gì?",
+    "en": "What can I get you?"
+  },
+  {
+    "vi": "Cho tôi xem cái menu",
+    "en": "Could we see a menu, please?"
+  },
+  {
+    "vi": "ở đây có đồ ăn nóng không?",
+    "en": "Do you have any hot food?"
+  },
+  {
+    "vi": "ăn ở đây hay mang về?",
+    "en": "Eat in or take-away?"
+  },
+  {
+    "vi": "ở đây có truy cập internet khong?",
+    "en": "Do you have internet access here?"
+  },
+  {
+    "vi": "Mọi việc ổn cả chứ?",
+    "en": "Was everything alright?"
+  },
+  {
+    "vi": "Tôi có thể thử cái này không ( thử quần áo hay giầy dép gì đó)",
+    "en": "Could I try this on?"
+  },
+  {
+    "vi": "Anh chị có muốn thử không?",
+    "en": "Do you want to try it on?"
+  },
+  {
+    "vi": "Cỡ của bạn bao nhiêu?",
+    "en": "What size are you?"
+  },
+  {
+    "vi": "Bạn lấy cỡ bao nhiêu?",
+    "en": "What size do you take?"
+  },
+  {
+    "vi": "Tôi lấy cỡ 10",
+    "en": "I take a size 10"
+  },
+  {
+    "vi": "Phòng thử đồ ở đâu",
+    "en": "Where's the fitting room?"
+  },
+  {
+    "vi": "Nó có vừa không?",
+    "en": "Is that a good fit?"
+  },
+  {
+    "vi": "Nó hơi chật",
+    "en": "It's a little too small"
+  },
+  {
+    "vi": "Nó vừa khít",
+    "en": "It's just right"
+  },
+  {
+    "vi": "Bạn nghĩ sao về những cái này?",
+    "en": "What do you think of these?"
+  },
+  {
+    "vi": "Có thể đưa tôi xem được không?",
+    "en": "Can I have a look at it?"
+  },
+  {
+    "vi": "Không giẫm lên cỏ",
+    "en": "Keep off the grass"
+  },
+  {
+    "vi": "Chúng tôi cần 1 nơi để ở",
+    "en": "We need somewhere to stay"
+  },
+  {
+    "vi": "Tôi muốn rút tiền",
+    "en": "I want to make a withdrawal"
+  },
+  {
+    "vi": "Bạn muốn rút tiền loại nào",
+    "en": "How would you like the money?"
+  },
+  {
+    "vi": "Tôi muốn bỏ tiền vào tài khoản",
+    "en": "I'd like to pay this in, please"
+  },
+  {
+    "vi": "Tôi muốn mở một tài khoản",
+    "en": "I'd like to open an account"
+  },
+  {
+    "vi": "Bạn có thể cho tôi biết sổ dư tài khoản của tôi không?",
+    "en": "Could you tell me my balance, please?"
+  },
+  {
+    "vi": "Tôi muốn đổi 1 ít tiền",
+    "en": "I'd like to change some money"
+  },
+  {
+    "vi": "Bạn thích màu gì?",
+    "en": "What colour would you like?"
+  },
+  {
+    "vi": "Bạn mấy tầng?",
+    "en": "What floor is it on?"
+  },
+  {
+    "vi": "ở rạp chiếu phim đang chiếu gì thế?",
+    "en": "What's on at the ciname?"
+  },
+  {
+    "vi": "Chúng ta đi dạo nhé?",
+    "en": "Shall we go for a walk?"
+  },
+  {
+    "vi": "Những vé này bao nhiêu tiền?",
+    "en": "How much are the tickets?"
+  },
+  {
+    "vi": "Có giảm giá cho sinh viên không?",
+    "en": "Is there a discount for ...?"
+  },
+  {
+    "vi": "Bạn muốn ngồi chỗ nào?",
+    "en": "Where would you like to sit?"
+  },
+  {
+    "vi": "Nội dung fim này nói về cái gì?",
+    "en": "What's this film about?"
+  },
+  {
+    "vi": "Bạn đã xem bao giờ chưa?",
+    "en": "Have you seen it?"
+  },
+  {
+    "vi": "Bạn có thích không?",
+    "en": "Did you enjoy it?"
+  },
+  {
+    "vi": "Mấy giờ bạn đóng cửa?",
+    "en": "What time do you close?"
+  },
+  {
+    "vi": "Tôi có thể chụp ảnh được không?",
+    "en": "Can I take photographs?"
+  },
+  {
+    "vi": "Tôi bị cúm",
+    "en": "I've got flu"
+  },
+  {
+    "vi": "Mình sắp bị ốm",
+    "en": "I'm going to be sick"
+  },
+  {
+    "vi": "Chân tôi bị đau",
+    "en": "My feet are hurting"
+  },
+  {
+    "vi": "Bạn cảm thấy thế nào?",
+    "en": "How are you feeling?"
+  },
+  {
+    "vi": "Bạn đã thấy đỡ hơn chưa?",
+    "en": "Are you feeling any better?"
+  },
+  {
+    "vi": "Tôi mong bạn nhanh khỏe",
+    "en": "I hope you feel better soon"
+  },
+  {
+    "vi": "Tôi cần đi khám bác sĩ",
+    "en": "I need to see a doctor"
+  },
+  {
+    "vi": "Tôi nghĩ bãn nên đi gặp bác sĩ",
+    "en": "I think you should go and see a doctor"
+  },
+  {
+    "vi": "Bạn đã làm ở đây bao lâu rồi?",
+    "en": "How long have you worked here?"
+  },
+  {
+    "vi": "Tôi sẽ ra ngoài ăn trưa?",
+    "en": "I'm going out for lunch"
+  },
+  {
+    "vi": "Tôi sẽ quay lại lúc 1h 30",
+    "en": "I'll be back at 1.30"
+  },
+  {
+    "vi": "Bạn đến nơi làm việc bằng gì",
+    "en": "How do you get to work?"
+  },
+  {
+    "vi": "Mấy giờ cuộc họp bắt đầu?",
+    "en": "What time does the meeting start?"
+  },
+  {
+    "vi": "Mấy giờ cuộc họp kết thúc?",
+    "en": "What time does the meeting finish?"
+  },
+  {
+    "vi": "Cho tôi xem bản báo cáo được không?",
+    "en": "Can I see the report?"
+  },
+  {
+    "vi": "Tôi thấy quảng cáo của bạn trên báo",
+    "en": "I saw your advert in the paper"
+  },
+  {
+    "vi": "Giờ làm việc như thế nào?",
+    "en": "What are the hours of work?"
+  },
+  {
+    "vi": "Tôi có phải làm việc theo ca không?",
+    "en": "Will I have to work shifts?"
+  },
+  {
+    "vi": "Việc này trả lương bao nhiệu?",
+    "en": "How much does the job pay?"
+  },
+  {
+    "vi": "Mỗi năm được nghỉ lễ bao nhiêu tuần?",
+    "en": "How many weeks' holiday a year are there?"
+  },
+  {
+    "vi": "Tôi muốn nhận việc này",
+    "en": "I'd like to take the job"
+  },
+  {
+    "vi": "Khi nào bạn muốn tôi bắt đầu?",
+    "en": "When do you want me to start?"
+  },
+  {
+    "vi": "Chúng tôi muốn mời bạn đi phỏng vấn",
+    "en": "We'd like to invite you for an interview"
+  },
+  {
+    "vi": "Đây là bản mô tả công việc",
+    "en": "This is the job description"
+  },
+  {
+    "vi": "Bạn có kinh nghiệm gì không?",
+    "en": "Have you got any experience?"
+  },
+  {
+    "vi": "Bạn có bằng cấp chuyên môn nào không?",
+    "en": "Have you got any qualifications?"
+  },
+  {
+    "vi": "Chúng tôi cần người có kinh nghiệm",
+    "en": "We need someone with experience"
+  },
+  {
+    "vi": "Bạn có bằng cấp gì?",
+    "en": "What qualifications have you got?"
+  },
+  {
+    "vi": "Dây là hợp đồng lao động của bạn",
+    "en": "This is your employment contract"
+  },
+  {
+    "vi": "Xin cho tôi gặp bill",
+    "en": "Could I speak to Bill , please?"
+  },
+  {
+    "vi": "Tôi nghe",
+    "en": "Speaking!"
+  },
+  {
+    "vi": "Ai gọi đấy",
+    "en": "who's calling?"
+  },
+  {
+    "vi": "Tôi sẽ nối máy với anh ấy",
+    "en": "I'll put him on"
+  },
+  {
+    "vi": "Bạn có muốn để lại lời nhắn không?",
+    "en": "Would you like to leave a message?"
+  },
+  {
+    "vi": "Bạn có thể nhắn với anh ấy gọi cho tôi k?",
+    "en": "Could you ask him to call me?"
+  },
+  {
+    "vi": "Bây giờ có tiện nói chuyện không?",
+    "en": "Is it convenient to talk at the moment?"
+  },
+  {
+    "vi": "Máy tôi sắp hết pin rồi",
+    "en": "My battery's about to run out"
+  },
+  {
+    "vi": "Điện thoại tôi sắp hết tiền",
+    "en": "I'm about to run out of credit"
+  },
+  {
+    "vi": "Tôi sẽ nhắn tin cho bạn",
+    "en": "I'll send you a text"
+  },
+  {
+    "vi": "Tôi có thể mượn điện thoại của bạn được k",
+    "en": "Could I borrow your phone, please?"
+  },
+  {
+    "vi": "Tôi muốn mua 1 card điện thoại",
+    "en": "I'd like a phonecard, please"
+  },
+  {
+    "vi": "Rất mong sớm gặp lại bạn",
+    "en": "Look forward to seeing you soon!"
+  },
+  {
+    "vi": "Bạn đã học tiếng anh ở đâu",
+    "en": "Where did you learn your English?"
+  },
+  {
+    "vi": "Tôi tự học",
+    "en": "I taught myself"
+  },
+  {
+    "vi": "Từ này phát âm thế nào",
+    "en": "How do you pronounce this word?"
+  },
+  {
+    "vi": "Tôi k phản đối đâu",
+    "en": "I don't mind"
+  },
+  {
+    "vi": "Còn gì nữa không?",
+    "en": "Anything else?"
+  },
+  {
+    "vi": "Bạn có sợ không?",
+    "en": "Are you afraid?"
+  },
+  {
+    "vi": "Bạn đang chờ ai đó hả",
+    "en": "Are you waiting for someone?"
+  },
+  {
+    "vi": "Ngày mai bạn có làm việc không?",
+    "en": "Are you working Tomorrow?"
+  },
+  {
+    "vi": "Việc đó xảy ra lúc mấy giờ?",
+    "en": "At what time did it happen?"
+  },
+  {
+    "vi": "Bạn đang nghĩ gì?",
+    "en": "What are you thinking about?"
+  },
+  {
+    "vi": "Tối qua bạn làm gì?",
+    "en": "What did you do last night?"
+  },
+  {
+    "vi": "Anh ấy làm nghề gì?",
+    "en": "What does he do for work?"
+  },
+  {
+    "vi": "Bạn đã thức dậy lúc mấy giờ",
+    "en": "What time did you get up?"
+  },
+  {
+    "vi": "Mấy giờ nó bắt đầu",
+    "en": "What time does it start?"
+  },
+  {
+    "vi": "Khi nào anh ấy sẽ trở lại",
+    "en": "When will he be back?"
+  },
+  {
+    "vi": "Tại sao bạn đã làm làm điều đó",
+    "en": "Why did you do that?"
+  },
+  {
+    "vi": "Họ đã gặp cô ta chưa?",
+    "en": "Have they met her yet?"
+  },
+  {
+    "vi": "Bạn tới chưa?",
+    "en": "Have you arrived?"
+  },
+  {
+    "vi": "Bạn đã làm việc này trước đây chưa?",
+    "en": "Have you done this before?"
+  },
+  {
+    "vi": "Bạn đã ăn chưa?",
+    "en": "Have you eaten yet?"
+  },
+  {
+    "vi": "Tôi dùng cái này như thế nào?",
+    "en": "How do I use this?"
+  },
+  {
+    "vi": "Nó có vị ra ra?",
+    "en": "How does it taste?"
+  },
+  {
+    "vi": "Cô ta như thế nào?",
+    "en": "How is she?"
+  },
+  {
+    "vi": "Gia đình bạn có bao nhiêu người",
+    "en": "How many people do you have in your family?"
+  },
+  {
+    "vi": "Việc làm ăn thế nào",
+    "en": "How's business?"
+  },
+  {
+    "vi": "Thử vận may",
+    "en": "Take a chance."
+  },
+  {
+    "vi": "Mang nó ra ngoài",
+    "en": "Take it outside."
+  },
+  {
+    "vi": "Bạn có hẹn không?",
+    "en": "Do you have an appointment?"
+  },
+  {
+    "vi": "Bạn có đủ tiền không?",
+    "en": "Do you have any money?"
+  },
+  {
+    "vi": "Bạn có nghe cái đó không?",
+    "en": "Do you hear that?"
+  },
+  {
+    "vi": "Bạn có biết cô ta không?",
+    "en": "Do you know her?"
+  },
+  {
+    "vi": "Bạn có biết cái này nghĩa là gì không?",
+    "en": "Do you know what this means?"
+  },
+  {
+    "vi": "Bán có cần gì nữa không?",
+    "en": "Do you need anything else?"
+  },
+  {
+    "vi": "Bán nghĩ ngày mai có mưa không?",
+    "en": "Do you think it's going to rain tomorrow?"
+  },
+  {
+    "vi": "Bạn nghĩ điều đó có thể xảy ra không?",
+    "en": "Do you think it's possible?"
+  },
+  {
+    "vi": "Đừng làm điều đó",
+    "en": "Don't do that."
+  },
+  {
+    "vi": "Vùng quê hẻo lánh",
+    "en": "Isolated rural locations"
+  },
+  {
+    "vi": "Tôi đi đây, tôi không chịu được những thứ vớ vẩn ở đây nữa",
+    "en": "I'm leaving. I've had enough of all this nonsense!"
+  },
+  {
+    "vi": "Bạn dịch có đúng không?",
+    "en": "Is your translation correct?"
+  },
+  {
+    "vi": "Nó không đi đến đâu đâu",
+    "en": "It comes to nothing."
+  },
+  {
+    "vi": "Tôi đang phát điên lên đây",
+    "en": "I'm going out of my mind!"
+  },
+  {
+    "vi": "Trời mưa tầm tả",
+    "en": "It's raining cats and dogs."
+  },
+  {
+    "vi": "Họa vô đơn chí",
+    "en": "It never rains but it pours."
+  },
+  {
+    "vi": "Tôi đi ngủ đây, tôi rất mệt",
+    "en": "I'm going to bed now – I'm beat."
+  },
+  {
+    "vi": "Tôi rất khá tennis",
+    "en": "I'm pretty hot at tennis."
+  },
+  {
+    "vi": "Nếu công việc của bạn tệ quá thì bỏ đi",
+    "en": "If your job really sucks, leave it."
+  },
+  {
+    "vi": "Tôi đã nói với bạn nhiều lần lắm rồi",
+    "en": "I've told you umpteen times."
+  },
+  {
+    "vi": "Nếu bạn k làm việc cực lực, bạn sẽ là người vô dụng",
+    "en": "If you don't work hard, you'll end up a zero."
+  },
+  {
+    "vi": "Tôi đang thèm 1 li cafe",
+    "en": "I'm dying for a cup of coffee."
+  },
+  {
+    "vi": "Không biết bạn còn nhớ tôi không",
+    "en": "I'm not sure if you remember me."
+  },
+  {
+    "vi": "Tôi chưa bao giờ bỏ lỡ dịp nào",
+    "en": "I never miss a chance."
+  },
+  {
+    "vi": "Tôi thì gì cũng được",
+    "en": "It's all the same to me."
+  }
+]
