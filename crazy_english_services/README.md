@@ -3,6 +3,21 @@ Crazy English
 
 Make English learning be fun!
 
+## Services
+
+> https://soiqualang.github.io/400_crazy_english/crazy_english_services/
+
+<img src="img/h1.png">
+
+> https://soiqualang.github.io/400_crazy_english/crazy_english_services/?dbsrc=400convs
+
+<img src="img/h2.png">
+
+> https://soiqualang.github.io/400_crazy_english/crazy_english_services/?dbsrc=4000volcas
+
+<img src="img/h3.png">
+
+
 ## 400 crazy English Conversations
 
 * 400_crazy_english_trans.txt
@@ -16,3 +31,8 @@ Make English learning be fun!
 ## Make Json
 
 https://www.csvjson.com/csv2json
+
+https://stackoverflow.com/questions/1144705/best-way-to-store-a-key-value-array-in-javascript/1144737
+
+https://stackoverflow.com/questions/2532218/pick-random-property-from-a-javascript-object
+

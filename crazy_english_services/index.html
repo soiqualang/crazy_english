@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Crazy English services by soiqualang.chentreu</title>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-sanitize.js"></script>
+<script src="js/func.js"></script>
+</head>
+<body ng-app="myApp">
+<div ng-controller="myhttp">
+	<div class="info">
+		{{crazy}}
+		<!-- <blockquote id="info">
+			{{crazy.en}}
+			<cite>{{crazy.vi}}</cite>
+		</blockquote> -->
+	</div>
+</div>
+<script>
+
+var app = angular.module('myApp', ['ngSanitize']);
+
+app.config( [
+    '$compileProvider',
+    function( $compileProvider )
+    {
+        $compileProvider.aHrefSanitizationWhitelist(/^\s*(https?|ftp|mailto|chrome-extension):/);
+		
+		//for img
+		$compileProvider.imgSrcSanitizationWhitelist(/^\s*(https?|local|data|chrome-extension):/);
+    }
+]);
+
+//http://localhost:999/400_crazy_english/crazy_english_services/?dbsrc=400convs
+//http://localhost:999/400_crazy_english/crazy_english_services/?dbsrc=4000volcas
+
+app.controller('myhttp',function($scope,$http,$interval) {
+	$scope.dbsrc=GetURLParameter('dbsrc');
+	$scope.dbsrc=get_dbsrc($scope.dbsrc);
+	//get crazy
+	$http.get('data/'+$scope.dbsrc).then(function (response){
+		var crazys=response.data;
+		$scope.crazys=crazys;
+		$scope.crazy=$scope.crazys[Math.floor(Math.random() * $scope.crazys.length)];
+	});
+});
+</script>
+</body>
+</html>
