@@ -13,13 +13,13 @@ Make English learning be fun!
 ## Services
 
 * Random between two Databases
-> https://soiqualang.github.io/400_crazy_english/crazy_english_services/
+> https://soiqualang.github.io/crazy_english/crazy_english_services/
 
 * Random crazy English Conversations
-> https://soiqualang.github.io/400_crazy_english/crazy_english_services/?dbsrc=400convs
+> https://soiqualang.github.io/crazy_english/crazy_english_services/?dbsrc=400convs
 
 * Random crazy English vocabularies
-> https://soiqualang.github.io/400_crazy_english/crazy_english_services/?dbsrc=4000volcas
+> https://soiqualang.github.io/crazy_english/crazy_english_services/?dbsrc=4000volcas
 
 
 ## Split up even further
@@ -40,7 +40,7 @@ https://github.com/soiqualang/crazy_english/tree/master/4000%20Core%20English%20
 
 `=RIGHT(chuỗi văn bản, LEN(chuỗi văn bản) - SEARCH(kí tự, chuỗi văn bản))`
 
-> 400_crazy_english_trans.xlsx
+> crazy_english_trans.xlsx
 `=RIGHT(A1,LEN(A1)-SEARCH(".",A1))`
 
 https://quizlet.com/474345902/400-crazy-vietnamese-english-flash-cards/
