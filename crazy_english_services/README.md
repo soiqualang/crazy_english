@@ -5,13 +5,19 @@ Make English learning be fun!
 
 ## Services
 
+* Random between two Databases
+
 > https://soiqualang.github.io/400_crazy_english/crazy_english_services/
 
 <img src="img/h1.png">
 
+* Random crazy English Conversations
+
 > https://soiqualang.github.io/400_crazy_english/crazy_english_services/?dbsrc=400convs
 
 <img src="img/h2.png">
+
+* Random crazy English vocabularies
 
 > https://soiqualang.github.io/400_crazy_english/crazy_english_services/?dbsrc=4000volcas
 
