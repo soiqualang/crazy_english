@@ -10,6 +10,18 @@ Make English learning be fun!
 	* Search
 	* Find quick card...
 
+## Services
+
+* Random between two Databases
+> https://soiqualang.github.io/400_crazy_english/crazy_english_services/
+
+* Random crazy English Conversations
+> https://soiqualang.github.io/400_crazy_english/crazy_english_services/?dbsrc=400convs
+
+* Random crazy English vocabularies
+> https://soiqualang.github.io/400_crazy_english/crazy_english_services/?dbsrc=4000volcas
+
+
 ## Split up even further
 
 After a period of time, I felt that a set of vocabulary was too ineffective so I decided to break up the vocabulary further =))
